@@ -1,3 +1,5 @@
 Futuro programs
 frameworks
 banco de dados
+diff
+de arquivo
